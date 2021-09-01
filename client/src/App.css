@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.input-group-text {
+  width: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-control {
+  height: 60px;
+}
+
+.btn-sm {
+  width: 70px;
+}
